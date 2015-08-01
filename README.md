@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for DSS - The Data Scientist’s Toolbox
+Repo for DSS - Data Science Specialization
